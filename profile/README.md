@@ -32,20 +32,27 @@
 
 ---
 
-## 💸 Support Our Mission
+## 💸 Support Our Mission: Cryptocurrency Contributions
 
-### 🔗 Cryptocurrency Contributions
+### 🔗 Verified Wallet Addresses
 
-| Network | Address | QR Code | Status |
-|---------|---------|---------|--------|
-| Bitcoin (BTC) | `bc1qexample123456789` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=bitcoin:bc1qexample123456789) | ✅ Active |
-| Ethereum (ETH) | `0xExampleEthereumAddress` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=ethereum:0xExampleEthereumAddress) | ✅ Active |
-| Solana (SOL) | `SolanaExampleAddress` | ![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=solana:SolanaExampleAddress) | ✅ Active |
+| Cryptocurrency | Wallet Address | Network | Copy |
+|---------------|----------------|---------|------|
+| Solana (SOL) | `EKQVJBdDqEKsQqHQ8BBgBrcohQ2wPSwAfs21sxKM4FLC` | Solana Mainnet | 📋 |
+| Ethereum (ETH) | `0xBFD25B75E9a742cEC6ea68D06d631f6EF14Cfa82` | Ethereum Mainnet | 📋 |
+| Dogecoin (DOGE) | `xpub6BiLp9AdsVBLHZPPtYSWaJZmipPYoUCq4rNhWFe1TWTkccLhi35Hi5NxNRLo3WQVRLCkHLsWe26KE22uA6Rw77tb9sAUNNa7Nq6yxAqWrLb` | Dogecoin Network | 📋 |
+| Litecoin (LTC) | `xpub6C7TTG3HhQ48Mu4soN9vAQQUoCqKXrppW1h7Z3VXnUtiRZWGUxjbPVf3iN3YoLXRqAk26ht35MPysGE4b4U9ZsqkvVhnUvyFy3kjeYq5J39` | Litecoin Network | 📋 |
+| Bitcoin (BTC) | `xpub6Bjr2DBfrieYREbYGppYoqmTj7zrhv4xU6SZe8ZpvzTcd4zGcyZ6DqDpofZqHuSZnxe8WBB5RUcNU5bSavkf2sYAVkngjmfqgMTLraoFfDe` | Bitcoin Network | 📋 |
 
 ### 💡 Contribution Impact
 - **$10**: Supports one coding workshop
 - **$50**: Funds a mentorship session
 - **$100**: Sponsors a community hackathon project
+
+#### ⚠️ Contribution Guidelines
+- Always verify wallet addresses before sending
+- Contributions are voluntary and appreciated
+- Funds support community development and resources
 
 ---
 
